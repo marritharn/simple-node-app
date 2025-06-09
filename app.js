@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>THARUN MARRI.. (AWS Certified Cloud Practitioner)</h1>
+    <h1>THARUN Yadav MARRI  (AWS Certified Cloud Practitioner)</h1>
     <p>Ph: +91 6303920490 | E-Mail: marritharun863@gmail.com<br/>
     LinkedIn: <a href="https://www.linkedin.com/in/tharun-marri-93b5a5254" target="_blank">tharun-marri-93b5a5254</a></p>
 
