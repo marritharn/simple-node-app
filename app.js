@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 // Home route: Basic greeting
-app.get('/', (req, res) => res.send('Hello I am Tharun '));
+app.get('/', (req, res) => res.send('Hello I am Tharun.... '));
 
 // Route for contact info and career objective
 app.get('/about', (req, res) => {
